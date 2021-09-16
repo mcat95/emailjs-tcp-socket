@@ -16,16 +16,12 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "npm run build-worker && rm -rf dist && babel src --out-dir dist --ignore '**/*-unit.js' --source-maps inline",
-    "build-worker": "rm -f res/tls.worker.blob && npx webpack --config webpack.config.worker.js -p && mv res/tls.worker.js res/tls.worker.blob",
+    "build": "rm -rf dist && babel src --out-dir dist --ignore '**/*-unit.js' --source-maps inline",
     "lint": "npx standard",
     "preversion": "npm run build",
     "test": "npm run lint && npm run unit && npm run integration",
     "unit": "npx mocha './src/*-unit.js' --reporter spec --require babel-register --require babel-polyfill testutils.js",
-    "integration": "npm run integration-ws && npm run integration-node",
-    "integration-node": "NODE_TLS_REJECT_UNAUTHORIZED=0 npx mocha './test/node/node-integration.js' --require testutils.js",
-    "integration-ws": "npm run build && npx webpack --config webpack.config.test.js -p && npx wdio wdio.conf.js",
-    "integration-chrome": "npm run build && cp node_modules/chai/chai.js node_modules/mocha/mocha.js node_modules/mocha/mocha.css test/chrome/ && npx webpack --config webpack.config.chrome.js && npx babel-node test/chrome/run.js"
+    "integration": "NODE_TLS_REJECT_UNAUTHORIZED=0 npx mocha './test/node/node-integration.js' --require testutils.js"
   },
   "bugs": {
     "url": "https://github.com/emailjs/emailjs-tcp-socket/issues"
@@ -44,20 +40,12 @@
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "chai": "^4.2.0",
-    "chrome-launcher": "^0.10.7",
-    "chromedriver": "^74.0.0",
-    "emailjs-tcp-proxy": "^1.0.2",
-    "hoodiecrow-imap": "^2.1.0",
     "mocha": "^6.1.4",
     "pre-commit": "^1.2.2",
     "sinon": "^7.3.2",
     "standard": "^12.0.1",
-    "wdio-chromedriver-service": "^5.0.1",
-    "wdio-mocha-framework": "^0.6.4",
-    "webdriverio": "^5.10.0",
     "webpack": "^4.33.0",
-    "webpack-cli": "^3.3.3",
-    "ws": "^7.0.0"
+    "webpack-cli": "^3.3.3"
   },
   "standard": {
     "globals": [
