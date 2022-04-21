@@ -23,6 +23,7 @@ export default class TCPSocket {
       ? tls.connect({
         port: this.port,
         host: this.host,
+        minVersion: options.minTLSVersion || tls.DEFAULT_MIN_VERSION,
         servername: this.host // SNI
       }, () => this._emit('open'))
       : net.connect(this.port, this.host, () => this._emit('open'))
