@@ -1,0 +1,203 @@
+Info 0    [10:12:03.636] Starting TS Server
+Info 1    [10:12:03.637] Version: 4.2.4
+Info 2    [10:12:03.637] Arguments: /home/marco/.nvm/versions/node/v14.18.3/bin/node /usr/local/bin/tsserver --logFile /home/marco/git/emailjs-tcp-socket/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/83804e2d43078eb7fa4e082d333eb507/tscancellation*
+Info 3    [10:12:03.637] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [10:12:03.637] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [10:12:03.651] Search path: /home/marco/git/emailjs-tcp-socket/src
+Info 6    [10:12:03.651] For info: /home/marco/git/emailjs-tcp-socket/src/socket.js :: No config files found.
+Info 7    [10:12:03.655] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [10:12:05.502] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1847.6827720031142ms
+Info 9    [10:12:05.503] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [10:12:05.503] 	Files (100)
+
+Info 11   [10:12:05.503] -----------------------------------------------
+Info 12   [10:12:06.456] Search path: /home/marco/git/emailjs-tcp-socket/src
+Info 13   [10:12:06.456] For info: /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: No config files found.
+Info 14   [10:12:06.489] Search path: /home/marco/git/emailjs-tcp-socket/src
+Info 15   [10:12:06.489] For info: /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: No config files found.
+Info 16   [10:13:26.542] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/.#node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 17   [10:13:26.542] Elapsed:: 0.14928799867630005ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/.#node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 18   [10:13:26.746] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [10:13:26.761] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 14.711487002670765ms
+Info 20   [10:13:26.761] Different program with same set of files:: structureIsReused:: 2
+Info 21   [10:13:27.269] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 22   [10:13:27.282] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 12.469479002058506ms
+Info 23   [10:13:27.282] Different program with same set of files:: structureIsReused:: 2
+Info 24   [10:13:27.284] getCompletionData: Get current token: 0.02163200080394745
+Info 25   [10:13:27.284] getCompletionData: Is inside comment: 0.07682500034570694
+Info 26   [10:13:27.284] getCompletionData: Get previous token 1: 0.04554799944162369
+Info 27   [10:13:27.284] getCompletionData: Get previous token 2: 0.037262000143527985
+Info 28   [10:13:27.285] getCompletionsAtPosition: isCompletionListBlocker: 0.17562700062990189
+Info 29   [10:13:27.294] getCompletionData: Semantic work: 9.15820400416851
+Info 30   [10:13:27.295] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.8959779962897301
+Info 31   [10:13:28.237] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 32   [10:13:28.247] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 9.559848003089428ms
+Info 33   [10:13:28.247] Different program with same set of files:: structureIsReused:: 2
+Info 34   [10:13:28.693] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 35   [10:13:28.702] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 8.942125998437405ms
+Info 36   [10:13:28.702] Different program with same set of files:: structureIsReused:: 2
+Info 37   [10:13:30.342] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 38   [10:13:30.353] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 11.33670900017023ms
+Info 39   [10:13:30.353] Different program with same set of files:: structureIsReused:: 2
+Info 40   [10:13:30.399] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 41   [10:13:30.415] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 15.671771995723248ms
+Info 42   [10:13:30.415] Different program with same set of files:: structureIsReused:: 2
+Info 43   [10:13:30.804] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/#node-socket.js# :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 44   [10:13:30.805] Elapsed:: 0.18046600371599197ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/#node-socket.js# :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 45   [10:13:43.794] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 46   [10:13:43.803] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 9.323894999921322ms
+Info 47   [10:13:43.804] Different program with same set of files:: structureIsReused:: 2
+Info 48   [10:13:44.892] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 49   [10:13:44.898] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 5.831276997923851ms
+Info 50   [10:13:44.898] Different program with same set of files:: structureIsReused:: 2
+Info 51   [10:13:45.072] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 52   [10:13:45.083] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 11.121525004506111ms
+Info 53   [10:13:45.083] Different program with same set of files:: structureIsReused:: 2
+Info 54   [10:13:45.107] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 55   [10:13:45.114] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 7.00110299885273ms
+Info 56   [10:13:45.114] Different program with same set of files:: structureIsReused:: 2
+Info 57   [10:13:45.211] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 58   [10:13:45.218] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 6.589195005595684ms
+Info 59   [10:13:45.218] Different program with same set of files:: structureIsReused:: 2
+Info 60   [10:13:45.383] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 61   [10:13:45.390] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 7.28931599855423ms
+Info 62   [10:13:45.390] Different program with same set of files:: structureIsReused:: 2
+Info 63   [10:13:45.584] getCompletionData: Get current token: 0.021407999098300934
+Info 64   [10:13:45.584] getCompletionData: Is inside comment: 0.007165998220443726
+Info 65   [10:13:45.584] getCompletionData: Get previous token 1: 0.0541980043053627
+Info 66   [10:13:45.584] getCompletionsAtPosition: isCompletionListBlocker: 0.0038700029253959656
+Info 67   [10:13:45.585] getCompletionData: Semantic work: 1.0214159935712814
+Info 68   [10:13:45.585] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.2981039956212044
+Info 69   [10:13:50.359] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 70   [10:13:50.365] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 5.630327999591827ms
+Info 71   [10:13:50.365] Different program with same set of files:: structureIsReused:: 2
+Info 72   [10:14:05.320] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 73   [10:14:05.328] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 7.976148001849651ms
+Info 74   [10:14:05.328] Different program with same set of files:: structureIsReused:: 2
+Info 75   [10:14:05.329] getCompletionData: Get current token: 0.015257000923156738
+Info 76   [10:14:05.329] getCompletionData: Is inside comment: 0.004422999918460846
+Info 77   [10:14:05.329] getCompletionData: Get previous token 1: 0.051420994102954865
+Info 78   [10:14:05.329] getCompletionData: Get previous token 2: 0.04176999628543854
+Info 79   [10:14:05.329] getCompletionsAtPosition: isCompletionListBlocker: 0.0032319948077201843
+Info 80   [10:14:05.334] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 81   [10:14:05.365] forEachExternalModuleToImportFrom: filtered out 322 modules by package.json contents
+Info 82   [10:14:05.372] getSymbolsFromOtherSourceFileExports: 38.58477299660444
+Info 83   [10:14:05.377] getCompletionData: Semantic work: 48.61744099855423
+Info 84   [10:14:05.396] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 14.932565994560719
+Info 85   [10:14:06.072] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 86   [10:14:06.079] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 6.886871002614498ms
+Info 87   [10:14:06.079] Different program with same set of files:: structureIsReused:: 2
+Info 88   [10:14:06.594] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 89   [10:14:06.600] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 6.254114001989365ms
+Info 90   [10:14:06.600] Different program with same set of files:: structureIsReused:: 2
+Info 91   [10:14:08.066] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 92   [10:14:08.077] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false Elapsed: 10.966572999954224ms
+Info 93   [10:14:08.077] Different program with same set of files:: structureIsReused:: 2
+Info 94   [10:14:08.078] getCompletionData: Get current token: 0.02440500259399414
+Info 95   [10:14:08.078] getCompletionData: Is inside comment: 0.007843002676963806
+Info 96   [10:14:08.079] getCompletionData: Get previous token 1: 1.1203560009598732
+Info 97   [10:14:08.079] getCompletionsAtPosition: isCompletionListBlocker: 0.005384005606174469
+Info 98   [10:14:08.080] getCompletionData: Semantic work: 0.6946780011057854
+Info 99   [10:14:08.080] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0025749951601028442
+Info 100  [10:14:08.085] getCompletionData: Get current token: 0.013692997395992279
+Info 101  [10:14:08.086] getCompletionData: Is inside comment: 0.0040149986743927
+Info 102  [10:14:08.086] getCompletionData: Get previous token 1: 0.03451499342918396
+Info 103  [10:14:08.086] getCompletionsAtPosition: isCompletionListBlocker: 0.0031139999628067017
+Info 104  [10:14:08.086] getCompletionData: Semantic work: 0.08661600202322006
+Info 105  [10:14:08.086] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0012440010905265808
+Info 106  [10:14:08.087] getCompletionData: Get current token: 0.012035995721817017
+Info 107  [10:14:08.087] getCompletionData: Is inside comment: 0.0035939961671829224
+Info 108  [10:14:08.087] getCompletionData: Get previous token 1: 0.03370700031518936
+Info 109  [10:14:08.087] getCompletionsAtPosition: isCompletionListBlocker: 0.0022340044379234314
+Info 110  [10:14:08.087] getCompletionData: Semantic work: 0.04734700173139572
+Info 111  [10:14:08.087] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0013279989361763
+Info 112  [10:14:08.088] getCompletionData: Get current token: 0.011969998478889465
+Info 113  [10:14:08.088] getCompletionData: Is inside comment: 0.0032589957118034363
+Info 114  [10:14:08.088] getCompletionData: Get previous token 1: 0.03346899896860123
+Info 115  [10:14:08.088] getCompletionsAtPosition: isCompletionListBlocker: 0.0022910013794898987
+Info 116  [10:14:08.088] getCompletionData: Semantic work: 0.040971994400024414
+Info 117  [10:14:08.088] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.0012329965829849243
+Info 118  [10:14:12.368] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 119  [10:14:12.382] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false Elapsed: 14.070811994373798ms
+Info 120  [10:14:12.382] Different program with same set of files:: structureIsReused:: 2
+Info 121  [10:14:12.383] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 122  [10:14:12.393] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false Elapsed: 10.305003002285957ms
+Info 123  [10:14:12.393] Different program with same set of files:: structureIsReused:: 2
+Info 124  [10:14:13.130] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 125  [10:14:13.136] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false Elapsed: 5.602051004767418ms
+Info 126  [10:14:13.136] Different program with same set of files:: structureIsReused:: 2
+Info 127  [10:14:14.287] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 128  [10:14:14.293] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false Elapsed: 5.751986004412174ms
+Info 129  [10:14:14.293] Different program with same set of files:: structureIsReused:: 2
+Info 130  [10:14:15.083] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 131  [10:14:15.092] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false Elapsed: 8.931999996304512ms
+Info 132  [10:14:15.092] Different program with same set of files:: structureIsReused:: 2
+Info 133  [10:14:15.986] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 134  [10:14:15.992] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false Elapsed: 5.731096997857094ms
+Info 135  [10:14:15.992] Different program with same set of files:: structureIsReused:: 2
+Info 136  [10:14:16.251] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 137  [10:14:16.260] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: false Elapsed: 8.290862999856472ms
+Info 138  [10:14:16.260] Different program with same set of files:: structureIsReused:: 2
+Info 139  [10:14:16.595] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 140  [10:14:16.601] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false Elapsed: 5.650372996926308ms
+Info 141  [10:14:16.601] Different program with same set of files:: structureIsReused:: 2
+Info 142  [10:14:21.063] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 143  [10:14:21.068] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: false Elapsed: 5.062337003648281ms
+Info 144  [10:14:21.068] Different program with same set of files:: structureIsReused:: 2
+Info 145  [10:14:22.187] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 146  [10:14:22.196] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false Elapsed: 8.908557005226612ms
+Info 147  [10:14:22.196] Different program with same set of files:: structureIsReused:: 2
+Info 148  [10:14:23.649] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 149  [10:14:23.656] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 29 structureChanged: false Elapsed: 7.473140999674797ms
+Info 150  [10:14:23.656] Different program with same set of files:: structureIsReused:: 2
+Info 151  [10:14:23.658] getCompletionData: Get current token: 0.012949995696544647
+Info 152  [10:14:23.658] getCompletionData: Is inside comment: 0.005294002592563629
+Info 153  [10:14:23.658] getCompletionData: Get previous token 1: 0.06146100163459778
+Info 154  [10:14:23.658] getCompletionsAtPosition: isCompletionListBlocker: 0.16147499531507492
+Info 155  [10:14:23.660] getCompletionData: Semantic work: 1.2636560052633286
+Info 156  [10:14:23.661] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.6490970030426979
+Info 157  [10:14:25.378] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 158  [10:14:25.384] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 30 structureChanged: false Elapsed: 6.019023001194ms
+Info 159  [10:14:25.384] Different program with same set of files:: structureIsReused:: 2
+Info 160  [10:14:26.091] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 161  [10:14:26.100] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 31 structureChanged: false Elapsed: 8.399296000599861ms
+Info 162  [10:14:26.100] Different program with same set of files:: structureIsReused:: 2
+Info 163  [10:14:26.100] getCompletionData: Get current token: 0.0430929958820343
+Info 164  [10:14:26.101] getCompletionData: Is inside comment: 0.01058899611234665
+Info 165  [10:14:26.101] getCompletionData: Get previous token 1: 0.05207899957895279
+Info 166  [10:14:26.101] getCompletionsAtPosition: isCompletionListBlocker: 0.0027039945125579834
+Info 167  [10:14:26.101] getCompletionData: Semantic work: 0.6702079996466637
+Info 168  [10:14:26.106] getCompletionData: Get current token: 0.0336339995265007
+Info 169  [10:14:26.106] getCompletionData: Is inside comment: 0.008376993238925934
+Info 170  [10:14:26.106] getCompletionData: Get previous token 1: 0.06638599932193756
+Info 171  [10:14:26.106] getCompletionsAtPosition: isCompletionListBlocker: 0.0034679993987083435
+Info 172  [10:14:26.107] getCompletionData: Semantic work: 0.5049159973859787
+Info 173  [10:14:27.491] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/.#node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 174  [10:14:27.491] Elapsed:: 0.16358999907970428ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/.#node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 175  [10:14:27.493] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/#node-socket.js# :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 176  [10:14:27.493] Elapsed:: 0.1107570007443428ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/#node-socket.js# :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 177  [10:16:44.203] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 178  [10:16:44.203] Elapsed:: 0.02891799807548523ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 179  [10:16:44.203] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 180  [10:16:44.203] Elapsed:: 0.010599002242088318ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 181  [10:16:51.750] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 182  [10:16:51.764] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 32 structureChanged: false Elapsed: 13.428654000163078ms
+Info 183  [10:16:51.764] Different program with same set of files:: structureIsReused:: 2
+Info 184  [10:16:53.026] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 185  [10:16:53.026] Elapsed:: 0.03751400113105774ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 186  [10:16:53.026] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 187  [10:16:53.026] Elapsed:: 0.010695002973079681ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 188  [10:17:03.007] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 189  [10:17:03.021] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 33 structureChanged: false Elapsed: 14.255059003829956ms
+Info 190  [10:17:03.021] Different program with same set of files:: structureIsReused:: 2
+Info 191  [10:17:33.738] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 192  [10:17:33.738] Elapsed:: 0.02859700471162796ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 193  [10:17:33.738] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 194  [10:17:33.738] Elapsed:: 0.011843003332614899ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 195  [10:17:38.217] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 196  [10:17:38.217] Elapsed:: 0.02568800002336502ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 197  [10:17:38.217] DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 198  [10:17:38.217] Elapsed:: 0.009803004562854767ms DirectoryWatcher:: Triggered with /home/marco/git/emailjs-tcp-socket/src/node-socket.js :: WatchInfo: /home/marco/git/emailjs-tcp-socket/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 199  [10:18:25.475] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 200  [10:18:25.490] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 34 structureChanged: false Elapsed: 14.766943000257015ms
+Info 201  [10:18:25.490] Different program with same set of files:: structureIsReused:: 2
